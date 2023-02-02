@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "name": "Shantanu",
+      "age": "21",
+      "gender": "Male",
+      "country": "India",
+      "proffesion": "Student",
+      "id": 1
+    },
+    {
+      "name": "Aditi",
+      "age": "26",
+      "gender": "Female",
+      "country": "Bangladesh",
+      "proffesion": "Employed",
+      "id": 2
+    },
+    {
+      "name": "ankush",
+      "age": "12",
+      "gender": "Male",
+      "country": "Pakistan",
+      "proffesion": "Employed",
+      "id": 3
+    },
+    {
+      "name": "dhiraaj",
+      "age": "18",
+      "gender": "Male",
+      "country": "Indian",
+      "proffesion": "Student",
+      "id": 4
+    },
+    {
+      "name": "akshat",
+      "age": "36",
+      "gender": "Male",
+      "country": "Pakistan",
+      "proffesion": "Student",
+      "id": 5
+    },
+    {
+      "name": "priyanka",
+      "age": "25",
+      "gender": "Female",
+      "country": "India",
+      "proffesion": "Employed",
+      "id": 6
+    },
+    {
+      "name": "sabita",
+      "age": "25",
+      "gender": "Female",
+      "country": "India",
+      "proffesion": "Employed",
+      "id": 7
+    }
+  ]
+}
